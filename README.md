@@ -173,7 +173,7 @@ For the open-source projects, open an issue on the repo. For the products, use t
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
-  <img src="./assets/stack-light.svg" alt="Tech stack: Claude, MCP, TypeScript, Node.js, React, Next.js, Tailwind CSS, Vercel, PHP, WordPress, Clerk, Stripe, Lemon Squeezy, Resend, Upstash, Cloudflare" width="100%">
+  <img src="./assets/stack-light.svg" alt="Tech stack: Claude, MCP, TypeScript, Node.js, React, React Native, Next.js, Tailwind CSS, Convex, Supabase, AWS, Vercel, Cloudflare, Upstash, Clerk, Stripe, Lemon Squeezy, Resend, Google APIs, Salesforce, PHP, WordPress" width="100%">
 </picture>
 
 ## Connect
