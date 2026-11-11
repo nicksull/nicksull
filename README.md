@@ -19,6 +19,16 @@ Lately: MCP servers, privacy-first WordPress plugins and small SaaS for indie te
 
 <br>
 
+## About me
+
+I'm a Tech Lead and indie builder based in Melbourne. My work spans web, mobile apps, data engineering and, more and more, AI and agentic products: assistants that do useful work without being handed the keys to everything.
+
+Alongside that, I build and ship my own products. A few threads run through all of them. **Privacy by default:** [Mac Organiser MCP](https://github.com/nicksull/mac-organiser-mcp) makes zero network calls, and [The Bonnie Situation](https://github.com/nicksull/the-bonnie-situation) deletes form data once it's no longer needed. **Working inside the tools people already use:** [Hollaback](https://hollaback.me) sends feedback into Slack and Linear, and [Punchcard](https://usepunchcard.app) pushes hours straight into Xero. **Small and focused:** each one does one job well.
+
+I've built for the web long enough to have shipped plenty of WordPress, and I still do. The Bonnie Situation is on WordPress.org, with [Bonnie Pro](https://beforebonnie.com) as its paid add-on.
+
+Want to talk shop or work together? Find me on [LinkedIn](https://www.linkedin.com/in/nick-sull/) or at [nicksull.dev](https://nicksull.dev).
+
 ## Open source
 
 <table>
