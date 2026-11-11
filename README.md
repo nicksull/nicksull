@@ -12,7 +12,8 @@ Lately: MCP servers, privacy-first WordPress plugins and small SaaS for indie te
 <sub>Melbourne, Australia</sub>
 
 <a href="https://nicksull.dev"><img alt="nicksull.dev" src="https://img.shields.io/badge/web-nicksull.dev-F4F1EA?style=flat-square&labelColor=0E1116&logo=googlechrome&logoColor=F4F1EA"></a>
-<!-- LinkedIn + Instagram badges go here -->
+<a href="https://www.linkedin.com/in/nick-sull/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nick--sull-F4F1EA?style=flat-square&labelColor=0E1116&logo=linkedin&logoColor=F4F1EA"></a>
+<a href="https://www.instagram.com/nicksull/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nicksull-F4F1EA?style=flat-square&labelColor=0E1116&logo=instagram&logoColor=F4F1EA"></a>
 
 </div>
 
