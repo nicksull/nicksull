@@ -111,8 +111,74 @@ The paid add-on for The Bonnie Situation, built entirely on the free plugin's pu
 
 <!-- Red Van Rush: add a card here on release. -->
 
+## FAQ
+
+<details>
+<summary><b>Who is Nick Sullivan?</b></summary>
 <br>
 
+A Tech Lead and indie builder in Melbourne, Australia. I work across web, mobile apps, data engineering and AI/agentic products, and I build and ship my own software alongside that.
+
+</details>
+
+<details>
+<summary><b>What are you working on right now?</b></summary>
+<br>
+
+[Hollaback](https://hollaback.me) is heading towards launch, [Punchcard](https://usepunchcard.app) has a waitlist open, and [Wanderlist](https://mywanderlist.app) and [Bonnie Pro](https://beforebonnie.com) are live.
+
+</details>
+
+<details>
+<summary><b>Which of your projects are open source?</b></summary>
+<br>
+
+[Mac Organiser MCP](https://github.com/nicksull/mac-organiser-mcp) (MIT) and [The Bonnie Situation](https://github.com/nicksull/the-bonnie-situation) (GPLv2 or later). The products are closed source.
+
+</details>
+
+<details>
+<summary><b>Is Mac Organiser MCP safe to connect to my assistant?</b></summary>
+<br>
+
+That's what it's designed for. Your assistant only sees the Reminders lists, calendars and Notes folders you allow, nothing the model sends can run as code, deletes are opt-in, and it makes zero network calls. The [README](https://github.com/nicksull/mac-organiser-mcp#private-by-default) explains how.
+
+</details>
+
+<details>
+<summary><b>How do I get The Bonnie Situation?</b></summary>
+<br>
+
+Install it free from the WordPress.org plugin directory inside your WordPress admin. [Bonnie Pro](https://beforebonnie.com) adds the paid features on top.
+
+</details>
+
+<details>
+<summary><b>I found a bug. Where do I report it?</b></summary>
+<br>
+
+For the open-source projects, open an issue on the repo. For the products, use the support page on each product's site.
+
+</details>
+
+<details>
+<summary><b>How do I get in touch?</b></summary>
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/nick-sull/) is best, or start at [nicksull.dev](https://nicksull.dev).
+
+</details>
+
+## Tech stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <img src="./assets/stack-light.svg" alt="Tech stack: Claude, MCP, TypeScript, Node.js, React, Next.js, Tailwind CSS, Vercel, PHP, WordPress, Clerk, Stripe, Lemon Squeezy, Resend, Upstash, Cloudflare" width="100%">
+</picture>
+
+## Connect
+
 <div align="center">
-<sub><a href="https://nicksull.dev">nicksull.dev</a></sub>
+
+<a href="https://nicksull.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/connect-website-dark.svg"><img src="./assets/connect-website-light.svg" alt="Website: nicksull.dev" width="240"></picture></a><a href="https://www.linkedin.com/in/nick-sull/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/connect-linkedin-dark.svg"><img src="./assets/connect-linkedin-light.svg" alt="LinkedIn: nick-sull" width="240"></picture></a><a href="https://www.instagram.com/nicksull/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/connect-instagram-dark.svg"><img src="./assets/connect-instagram-light.svg" alt="Instagram: @nicksull" width="240"></picture></a>
 </div>
