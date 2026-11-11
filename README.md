@@ -9,7 +9,10 @@
 Web dev, mobile apps, data engineering, and AI/agentic product work.<br>
 Lately: MCP servers, privacy-first WordPress plugins and small SaaS for indie teams.
 
-<sub>Melbourne, Australia · [nicksull.dev](https://nicksull.dev)</sub>
+<sub>Melbourne, Australia</sub>
+
+<a href="https://nicksull.dev"><img alt="nicksull.dev" src="https://img.shields.io/badge/web-nicksull.dev-F4F1EA?style=flat-square&labelColor=0E1116&logo=googlechrome&logoColor=F4F1EA"></a>
+<!-- LinkedIn + Instagram badges go here -->
 
 </div>
 
@@ -21,6 +24,8 @@ Lately: MCP servers, privacy-first WordPress plugins and small SaaS for indie te
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/nicksull/mac-organiser-mcp"><img src="./assets/cards/mac-organiser-mcp.jpg" alt="Mac Organiser MCP" width="100%"></a>
+
 ### [Mac Organiser MCP](https://github.com/nicksull/mac-organiser-mcp)
 Reminders, Calendar and Notes for your AI assistant, on your terms. It only sees the lists, calendars and folders you allow, nothing the model sends can run as code, and it makes zero network calls.
 
@@ -28,6 +33,8 @@ Reminders, Calendar and Notes for your AI assistant, on your terms. It only sees
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/nicksull/the-bonnie-situation"><img src="./assets/cards/the-bonnie-situation.jpg" alt="The Bonnie Situation" width="100%"></a>
 
 ### [The Bonnie Situation](https://github.com/nicksull/the-bonnie-situation)
 Privacy-first storage for Contact Form 7 submissions on WordPress. Minimal capture by default, retention that actually deletes, and one-click import from Flamingo and CFDB7.
@@ -44,36 +51,48 @@ Privacy-first storage for Contact Form 7 submissions on WordPress. Minimal captu
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://hollaback.me"><img src="./assets/cards/hollaback.png" alt="Hollaback" width="100%"></a>
+
 ### [Hollaback](https://hollaback.me)
 Feedback boards for indie builders. Drop a widget into any app, collect feature requests and bug reports in one place, upvote the signal, and send it to Slack and Linear.
 
-<sub>Next.js · Convex · `Pre-launch`</sub>
+<sub>Next.js · Convex</sub><br>
+<img alt="Status: pre-launch" src="https://img.shields.io/badge/status-pre--launch-F2545B?style=flat-square&labelColor=0E1116">
 
 </td>
 <td width="50%" valign="top">
 
+<a href="https://usepunchcard.app"><img src="./assets/cards/punchcard.png" alt="Punchcard" width="100%"></a>
+
 ### [Punchcard](https://usepunchcard.app)
 A Mac menu bar time tracker that pushes your hours straight into Xero Projects.
 
-<sub>macOS · Xero · `Waitlist`</sub>
+<sub>macOS · Xero</sub><br>
+<img alt="Status: waitlist" src="https://img.shields.io/badge/status-waitlist-F7C948?style=flat-square&labelColor=0E1116">
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://mywanderlist.app"><img src="./assets/cards/wanderlist.png" alt="Wanderlist" width="100%"></a>
+
 ### [Wanderlist](https://mywanderlist.app)
 A travel app for saving, organising and rediscovering places worth going.
 
-<sub>iOS · `Live`</sub>
+<sub>iOS</sub><br>
+<img alt="Status: live" src="https://img.shields.io/badge/status-live-4C8DF6?style=flat-square&labelColor=0E1116">
 
 </td>
 <td width="50%" valign="top">
 
+<a href="https://beforebonnie.com"><img src="./assets/cards/bonnie-pro.png" alt="Bonnie Pro" width="100%"></a>
+
 ### [Bonnie Pro](https://beforebonnie.com)
 The paid add-on for The Bonnie Situation, built entirely on the free plugin's public hook API.
 
-<sub>PHP · WordPress · `Live`</sub>
+<sub>PHP · WordPress</sub><br>
+<img alt="Status: live" src="https://img.shields.io/badge/status-live-4C8DF6?style=flat-square&labelColor=0E1116">
 
 </td>
 </tr>
