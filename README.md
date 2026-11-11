@@ -5,8 +5,11 @@
   <img src="./assets/header-light.svg" alt="Nick Sullivan · nicksull.dev" width="100%">
 </picture>
 
-**I build small, focused software: privacy-first tools, indie SaaS and apps.**<br>
-Melbourne, Australia · [nicksull.dev](https://nicksull.dev)
+**Tech Lead & indie builder.**<br>
+Web dev, mobile apps, data engineering, and AI/agentic product work.<br>
+Lately: MCP servers, privacy-first WordPress plugins and small SaaS for indie teams.
+
+<sub>Melbourne, Australia · [nicksull.dev](https://nicksull.dev)</sub>
 
 </div>
 
